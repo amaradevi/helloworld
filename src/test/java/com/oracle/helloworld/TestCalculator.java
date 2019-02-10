@@ -36,7 +36,7 @@ public class TestCalculator {
 	 @Test
 	   public void testMul2() {
 		 
-		 assertEquals(6,Calculator.mul(2,3,10));
+		 assertEquals(60,Calculator.mul(2,3,10));
 		 
 	  }
 }
